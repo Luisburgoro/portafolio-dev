@@ -1,7 +1,7 @@
 export function Footer() {
   return (
-    <section id="about" className="py-32">
-      <h2>Sobre mí</h2>
+    <section id="footer" className="py-32">
+      <h2>aqui va el footer</h2>
     </section>
   );
 }
